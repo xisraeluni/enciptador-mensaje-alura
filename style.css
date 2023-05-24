@@ -199,7 +199,7 @@
 
 }
 
-.encriptado {
+.encriptado {   
   display: flex;
   justify-content: center;
   position: absolute;
@@ -207,7 +207,7 @@
   height: 80%;
   left: 60%;
   top: 5%;
-  background: #fff;
+  background: #bebbbbce;
   box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
   border-radius: 32px;
 }
